@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Backbone.js",
+		"DocBlockr",
+		"JavaScript & NodeJS Snippets",
+		"JSHint Gutter",
+		"LESS",
+		"Nodejs",
+		"Pretty JSON",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"Syntax Highlighting for Sass"
+	]
+}
